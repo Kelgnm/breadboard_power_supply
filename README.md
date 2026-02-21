@@ -3,9 +3,7 @@
 ---
 
 | 3D View | |
-|---------|--|
 | | ![](Pictures/breadboard-power-supply.png) |
 
 | Schematic Diagram | |
-|-------------------|--|
 | | ![](Pictures/breadboard-power-supply-sc.png) |
